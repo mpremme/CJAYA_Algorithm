@@ -7,4 +7,4 @@ Parameters for defining photovoltaic models using measured voltage–current cha
 
 Citation Format:
 
-M. Premkumar, Pradeep Jangir, R. Sowmya, M.E. Rajvikram, and B. Santhosh Kumar, “Enhanced Chaotic JAYA Algorithm for Parameter Estimation of Photovoltaic Cell/Modules,” ISA Transactions (Elsevier), Vol. 116, pp. 139-166, 2021.
+M. Premkumar, Pradeep Jangir, R. Sowmya, M.E. Rajvikram, and B. Santhosh Kumar, “Enhanced Chaotic JAYA Algorithm for Parameter Estimation of Photovoltaic Cell/Modules,” ISA Transactions, Vol. 116, pp. 139-166, 2021.
